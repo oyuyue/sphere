@@ -4,4 +4,6 @@
 
 ![](./image.png)
 
-在线预览 [https://codesandbox.io/s/sphere-ikqfg](https://codesandbox.io/s/sphere-ikqfg)
+在线预览：[https://woopen.github.io/sphere/](https://woopen.github.io/sphere/)
+
+相关文章：[在浏览器中画圆都会，但是画个 3D 的球呢？](https://juejin.cn/post/6934704258855993375/)
